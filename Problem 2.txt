@@ -1,0 +1,5 @@
+Problem 2 : My Money My Shares
+Links used
+cplusplus.com -> this I used to know how to enter values in vector
+https://www.simonqueenborough.info/R/basic/lessons/Subsetting_Vectors.html
+leetcode -> for knowing algorithm for subarray with sum less than or equal to the target
